@@ -1,19 +1,19 @@
 # Aplicación de Gestión de Inventarios ![Status badge](https://img.shields.io/badge/status-in%20progress-yellow)
 
 
-![Alt text](/arquitectura-front.png)
+![Alt text](https://github.com/jhonQ09/scrjs-front-aws-inventory-vistas/raw/master/arquitectura-front.png)
 
 > ## CONTENIDO
-* [Descripción](https://github.com/jhonQ09/cnf-lambdas-aws-inventory.git)
-* [Características](https://github.com/jhonQ09/cnf-lambdas-aws-inventory.git)
-* [Tecnologías Utilizadas](https://github.com/jhonQ09/cnf-lambdas-aws-inventory.git)
-* [Guia de Inicio Rápido](https://github.com/jhonQ09/cnf-lambdas-aws-inventory.git)
-* [Instalación](https://github.com/jhonQ09/cnf-lambdas-aws-inventory.git)
-* [Despliegue, Compilacion y Pruebas](https://github.com/jhonQ09/cnf-lambdas-aws-inventory.git)
-* [Autores y Agradecimientos](https://github.com/jhonQ09/cnf-lambdas-aws-inventory.git)
-* [Contribuciones e Historial de Versiones](https://github.com/jhonQ09/cnf-lambdas-aws-inventory.git)
-* [FAQs](https://github.com/jhonQ09/cnf-lambdas-aws-inventory.git)
-* [Licencia](https://github.com/jhonQ09/cnf-lambdas-aws-inventory.git)
+* [Descripción](https://github.com/jhonQ09/scrjs-front-aws-inventory-vistas.git)
+* [Características](https://github.com/jhonQ09/scrjs-front-aws-inventory-vistas.git)
+* [Tecnologías Utilizadas](https://github.com/jhonQ09/scrjs-front-aws-inventory-vistas.git)
+* [Guia de Inicio Rápido](https://github.com/jhonQ09/scrjs-front-aws-inventory-vistas.git)
+* [Instalación](https://github.com/jhonQ09/scrjs-front-aws-inventory-vistas.git)
+* [Despliegue, Compilacion y Pruebas](https://github.com/jhonQ09/scrjs-front-aws-inventory-vistas.git)
+* [Autores y Agradecimientos](https://github.com/jhonQ09/scrjs-front-aws-inventory-vistas.git)
+* [Contribuciones e Historial de Versiones](https://github.com/jhonQ09/scrjs-front-aws-inventory-vistas.git)
+* [FAQs](https://github.com/jhonQ09/scrjs-front-aws-inventory-vistas.git)
+* [Licencia](https://github.com/jhonQ09/scrjs-front-aws-inventory-vistas.git)
 
 
 ## Descripción
@@ -71,12 +71,12 @@ Abra su terminal favorito y corra los siguientes comandos:
 
 1. Clona este proyecto.
 ```sh
-git clone https://github.com/jhonQ09/cnf-lambdas-aws-inventory.git
+git clone https://github.com/jhonQ09/scrjs-front-aws-inventory-vistas.git
 ```
 
 2. Ve a la carpeta del proyecto
 ```sh
-cd /cnf-lambdas-aws-inventory
+cd /scrjs-front-aws-inventory-vistas
 ```
 ## 🛠 Despliegue, Compilación y Pruebas
 
